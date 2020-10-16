@@ -1,0 +1,7 @@
+{
+  "name": "prague-cars",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
